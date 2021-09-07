@@ -1,22 +1,20 @@
 <h1>TempHumidBox</h1>
-<p>โจทย์<p>
-<img src="ref/hm.jpg" width="850">
   
 <h1>อุปกรณ์</h1>
 <p>Bread Board สำหรับใส่ NodeMCU v.2 (ESP8266)<p>
-<img src="ref/bb.jpg" width="300">
+<img src="ref/bread.jpg" width="300">
 <p>ขนาด : 46mm. x 35mm.<p>
   
 <p>ตัวตรวจวัดอุณหภูมิและความชื้น DHT22<p>
-<img src="ref/tem.jpg" width="300">
+<img src="ref/temp.jpg" width="300">
 <p>ขนาด : 15.5mm. x 12mm.<p>
     
 <p>ชุดเปิด/ปิดไฟ 1 ช่องทาง (1 Ch. Relay Module)<p>
-<img src="ref/relay.jpg" width="300">
+<img src="ref/re.jpg" width="300">
 <p>ขนาด : 4.2 x 2.6 x 1.8cm.<p>
       
 <p>หลอดไฟแสดงผล (LED) ขนาด 5mm.<p>
-<img src="ref/led.jpg" width="300">
+<img src="ref/ledd.jpg" width="300">
 <p>ขนาด : 5mm.<p>
   
 <p>ปุ่มกด (Push Switch)<p>
@@ -24,7 +22,7 @@
 <p>ขนาด : 10mm. x 15mm.<p>
           
 <p>ขั้วต่อไปเลี้ยงแบบกลม<p>
-<img src="ref/kt.jpg" width="300">
+<img src="ref/k.png" width="300">
 <p>ขนาด : 3.7 mm.<p>
   
 <p>น๊อต M2-M3<p>
@@ -33,10 +31,10 @@
 
 <h1>Model Example</h1>
 <p>ตัวฝา<p>
-<img src="ref/b.jpg" width="850">
+<img src="ref/fa.jpg" width="850">
   
 <p>ตัวกล่อง<p>
-<img src="ref/a.jpg" width="850">
+<img src="ref/box.jpg" width="850">
   
 <p>Detail<p>
 <p>ขนาดของฐานล่าง : 77mm. x 90mm.<p>
