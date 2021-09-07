@@ -31,10 +31,10 @@
 
 <h1>Model Example</h1>
 <p>ตัวฝา<p>
-<img src="ref/fa.jpg" width="850">
+<img src="ref/fa.png" width="850">
   
 <p>ตัวกล่อง<p>
-<img src="ref/box.jpg" width="850">
+<img src="ref/box.png" width="850">
   
 <p>Detail<p>
 <p>ขนาดของฐานล่าง : 77mm. x 90mm.<p>
